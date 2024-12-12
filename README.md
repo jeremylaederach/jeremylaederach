@@ -21,8 +21,6 @@ I'm Jeremy Läderach, a Software Engineer passionate about creating innovative a
 ## Contact Me  
 - 🌐 [Website](https://jeremylaederach.ch)  
 - 📧 [Email](mailto:jeremy.kai.laederach@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jeremylaederach/)  
-
-![Jeremy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremylaederach&show_icons=true&theme=radical)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jeremy-l%C3%A4derach-816ab5326/)  
 
 > "Architecting the future, engineered line by line in code."
