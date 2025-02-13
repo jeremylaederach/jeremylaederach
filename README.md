@@ -10,5 +10,3 @@ I'm Jeremy Läderach, Software Engineer.
 - 🌐 [Website](https://jeremylaederach.ch)  
 - 📧 [Email](mailto:jeremy.kai.laederach@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jeremy-l%C3%A4derach-816ab5326/)  
-
-> "Architecting the future, engineered line by line in code."
