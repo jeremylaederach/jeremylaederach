@@ -2,7 +2,7 @@
 
 I'm a full-stack software developer from Zurich, Switzerland. I build practical software from the first idea through architecture, implementation, testing, deployment, and ongoing operation.
 
-[Portfolio](https://jeremylaederach.ch/en/) · [Jay-Jay](https://jay-jay.ch/en/) · [LinkedIn](https://www.linkedin.com/in/jeremy-l%C3%A4derach-816ab5326/)
+[Portfolio](https://jeremylaederach.ch/en/) · [Jay-Jay](https://jay-jay.ch/en/) · [LinkedIn](https://www.linkedin.com/in/jeremylaederach/)
 
 ## What I'm building
 
