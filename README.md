@@ -6,9 +6,9 @@ I'm a full-stack software developer from Zurich, Switzerland. I build practical 
 
 ## What I'm building
 
-### [SessionDeck](https://jeremylaederach.ch/en/session-deck/)
+### [SessionDeck](https://github.com/jeremylaederach/session-deck)
 
-A Windows workspace launcher built with .NET 10 and WinUI 3. It starts reusable groups of applications, commands, URLs, and folders while deliberately avoiding unsafe ownership of unrelated processes.
+An open-source Windows workspace launcher built with .NET 10 and WinUI 3. It starts reusable groups of applications, commands, URLs, and folders while deliberately avoiding unsafe ownership of unrelated processes.
 
 ### [Quantified](https://jeremylaederach.ch/en/quantified/)
 
@@ -33,7 +33,7 @@ I prefer small, reviewable increments, clear boundaries, automated tests, and ho
 
 ## Current focus
 
-- Preparing SessionDeck for its first public source release
+- Preparing SessionDeck for its first tagged public release
 - Evolving Quantified while keeping personal data and credentials private
 - Building and operating the software behind Jay-Jay
 - Planning to begin a part-time BSc in Business Information Technology at OST in September 2026
