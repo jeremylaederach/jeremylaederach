@@ -3,9 +3,9 @@
 </p>
 
 ---
-
+<div align="center">
 ## My tech stack
-
+</div>
 ```csharp
 var stack = new
 {
@@ -16,13 +16,3 @@ var stack = new
     Quality  = new[] { "xUnit", "PHPUnit", "Pest", "Static Analysis", "GitHub Actions" }
 };
 ```
-
----
-
-<div align="center">
-
-### Let's build something useful.
-
-[jeremylaederach.ch](https://jeremylaederach.ch/en/) · [info@jeremylaederach.ch](mailto:info@jeremylaederach.ch)
-
-</div>
