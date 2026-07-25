@@ -8,7 +8,7 @@ I'm a full-stack software developer from Zurich, Switzerland. I build practical 
 
 ### [SessionDeck](https://jeremylaederach.ch/en/session-deck/)
 
-An open-source Windows workspace launcher built with .NET 10 and WinUI 3. It starts reusable groups of applications, commands, URLs, and folders while deliberately avoiding unsafe ownership of unrelated processes.
+A Windows workspace launcher built with .NET 10 and WinUI 3. It starts reusable groups of applications, commands, URLs, and folders while deliberately avoiding unsafe ownership of unrelated processes.
 
 ### [Quantified](https://jeremylaederach.ch/en/quantified/)
 
