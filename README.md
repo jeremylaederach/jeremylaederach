@@ -4,16 +4,7 @@
 
 ---
 
-## 👋 Hey, I'm Jeremy
-
-- 🛠️ **Languages & tools:** C#, .NET, Angular, TypeScript, PHP, Laravel, PostgreSQL, WinUI 3, and Tailwind CSS
-- 🧭 **What I build:** focused products, client systems, and digital operations that remain understandable after launch
-- 🧪 **How I work:** clear boundaries, small reviewable changes, automated tests, and honest documentation
-- 🎓 **Next chapter:** planning to begin a part-time BSc in Business Information Technology at OST in September 2026
-
----
-
-## 🦾 My tech stack
+## My tech stack
 
 ```csharp
 var stack = new
@@ -25,24 +16,6 @@ var stack = new
     Quality  = new[] { "xUnit", "PHPUnit", "Pest", "Static Analysis", "GitHub Actions" }
 };
 ```
-
----
-
-## 🚀 Selected work
-
-| Project | What it does | Main stack |
-| --- | --- | --- |
-| **[SessionDeck](https://github.com/jeremylaederach/session-deck)** | Open-source Windows workspace launcher for reusable application, command, URL, and folder sessions | .NET 10 · WinUI 3 · xUnit |
-| **[Quantified](https://jeremylaederach.ch/en/quantified/)** | Personal analytics platform bringing calendar, finance, coding, health, business, and system data into focused views | Angular · ASP.NET Core · PostgreSQL |
-| **[Jay-Jay](https://jeremylaederach.ch/en/jay-jay/)** | Websites, hosting, domains, email, and customer systems for small Swiss organisations | Laravel · Blade · Tailwind CSS · Plesk |
-
----
-
-## 🔭 Current focus
-
-- Preparing SessionDeck for its first tagged public release
-- Evolving Quantified while keeping personal data and credentials private
-- Building and operating the software behind Jay-Jay
 
 ---
 
